@@ -1,39 +1,3 @@
-# Aqui é a sede secreta dos administradores 🔥😍
-# Só é permitido os membros vitalícios da MJR (Ruan de Mello e seus cumplices estão Banidos por roubo!)🫢
-
-# Membros Vitalícios:
-
-# DONAS:
-
-# Maite Cullen😎- Dona da MJR, Cria os designs das roupas e acompanhou fervorosamente o desenvolvimento do site!
-# Jamilly Cullen - Dona da MJR, deu o pontapé inicial para a estrutura do site, ela que trouxe a ideia perfeita para
-# construirmos o nosso site! Ela também administrou nossa equipe como Scrum Master e ajudou muito na programação da
-# interface do site.
-# Kel Cullen -  Dona da MJR, ajudou a criar as estruturas de códigos e acompanhou o desenvolvimento da equipe. 
-# Participou de inúmeras reuniões com empresas amigas e sempre está divulgando todo o trabalho da MJR
-
-# AMIGOS/PARCEIROS VITALÍCIOS:
-
-# Nicoly Juliana Felipa Luisa Albuquerque Virginia Pereira dos Santos Lima Castro Silva Costa Figueiredo Garcia Ribeiro Neta de Constantinopla II : Maravilhosa amiga, sempre está trazendo conselhos para vida, e ajudando nos
-# designs mais bafónicos da época! Advogada perfeita para nossa empresa e, sempre maravilhosa e respeitada ❤️ 
-# Yan Juan Hernandez: Nosso parceiro de negócios, Dono de uma pizzaria perfeita para a familia que quer comer algo delicioso
-# Foi um amigo perfeito para Maite e ambos sempre estão juntos para espalhar a palavra de Deus🙏. (Os sabores das pizzas são estranhamente bons...)
-# Tatiane Marietto Santos Garibaldi IV: Nossa queridissíma assistente de moda, ela sempre tem ideias incríveis e inovadoras e sempre faz um cafezinho daora.
-# Pedro Marietti Garibaldi XXV: Rico, infleuncer e trabalhador, super fiel à sua amada esposa, sempre apoiando suas ideias malucas e inovadoras.
-# Mikaleke Mokele Mbembe da Silva de Jerusalém V: Assessor da Pizzaria do Yan Juan, e garoto propaganda, ele se veste de Mokele Mbembe, na frente da Pizzaria, se sentindo bem com seu novo eu transformado, dançando sempre que pode, chocoalhando os quadris em uma dança sensual para atrair todas as Mokele Mbembas e para todos comerem na pizzaria lol.
-# Marayza Miranda Machado: Amiga da Jamilly...
-# Camila da Luz Bruxa de Salem: Ela é a mais poderosa das bruxas de salém, tendo ganhado seu prêmio nobel da bruxaria, e sendo a mulher mais bonita e venerada. Dizem que ela tem certos contratos com um mago poderosíssimo, inteligente e foda.
-# Dom Luis Fernandes de Freitas Bragança Barroso Henrique L: Programador front-end da pizzaria Mokele Mbembes, ele é o responsável por cozinhar e definir o cardápio. Ele também é responsável por ficar junto com Mikaleke como Mokele Mbemba. Casado com uma dama de primeira classe, Antonella, a mais rica de Marte. Ela é uma Marciana super gente fina, linda de morrer, meu deus, esse Luis é sortudo viu.
-
-# LISTA DE BANIDOS PELA ETERNIDADE:
-
-# Ruan de Mello👽 - O maldito que foi banido por direitos autorais!!!
-# Yan Amanda Ruan Hernandez = Banido por ser uma cópia barata, cruel que é insensível conspirou com Ruan de Mello para roubar os direitos autorais da MJR e o ingrediente secreto da pizzaria do irmão dele. 
-
-#Administação Fodastica 💕
-
-# Somente a diretoria ;)🤭
-
 import tkinter as tk
 from tkinter import messagebox, filedialog
 from PIL import Image, ImageTk
